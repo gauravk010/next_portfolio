@@ -9,7 +9,7 @@ const About = () => {
         <div className="flex flex-row justify-between items-start w-full gap-16 h-full relative max-lg:flex-col-reverse">
           <div className="flex-1 h-full flex flex-col gap-10 justify-between max-lg:w-full">
             <p className="text-3xl font-light flex-1 leading-relaxed h-[400px] max-lg:text-2xl">
-              I’m a <span className="font-semibold">MERN Stack Developer</span>.
+              I&apos;m a <span className="font-semibold">MERN Stack Developer</span>.
               I have just completed my Internship as a React Developer. Now I am
               looking for new opportunities to gain more real-world experience
               and contribute my learning in team environments. And most

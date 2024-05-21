@@ -60,7 +60,7 @@ const Sidebar = () => {
             className="border font-medium mt-8 text-xl border-orange-500 px-5 py-3 rounded-full flex items-center gap-2 hover:bg-neutral-600 duration-200 w-full"
           >
             <FiArrowUpRight className="text-xl" />
-            <span>Let's Connect</span>
+            <span>Let&apos;s Connect</span>
           </button>
         ) : (
           <Link
@@ -71,7 +71,7 @@ const Sidebar = () => {
             className="border font-medium mt-8 text-xl border-orange-500 px-5 py-3 rounded-full flex items-center gap-2 hover:bg-neutral-600 duration-200 w-full"
           >
             <FiArrowUpRight className="text-xl" />
-            <span>Let's Connect</span>
+            <span>Let&apos;s Connect</span>
           </Link>
         )}
         <a

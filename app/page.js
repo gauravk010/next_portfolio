@@ -168,7 +168,7 @@ export default function Home() {
           <div className="border border-[#171719] rounded-2xl w-full px-24 max-md:px-10 max-md:py-14 py-28">
             <div>
               <h1 className="text-5xl max-md:text-4xl font-medium">
-                Let's Connect
+                Let&apos;s Connect
               </h1>
             </div>
             <div>

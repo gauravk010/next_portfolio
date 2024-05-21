@@ -38,7 +38,7 @@ const Navbar = () => {
             className="flex items-center gap-2 text-lg font-medium max-lg:hidden"
           >
             <FiArrowUpRight className="text-2xl" />
-            <span>Let's Connect</span>
+            <span>Let&apos;s Connect</span>
           </button>
         ) : (
           <Link
@@ -46,7 +46,7 @@ const Navbar = () => {
             className="flex items-center gap-2 text-lg font-medium max-lg:hidden"
           >
             <FiArrowUpRight className="text-2xl" />
-            <span>Let's Connect</span>
+            <span>Let&apos;s Connect</span>
           </Link>
         )}
         {!IsOpen ? (

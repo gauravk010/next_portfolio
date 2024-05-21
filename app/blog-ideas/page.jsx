@@ -53,10 +53,10 @@ const blog = () => {
             </span>
           </p>
           <p className="text-xl max-lg:text-lg mt-5">
-            <span className="font-semibold">Note</span> - I'm using Render for
+            <span className="font-semibold">Note</span> - I&apos;m using Render for
             my Backend, and it is a free web service that goes 15 minutes
             without receiving inbound traffic. So, please be patient if the
-            website's API keeps loading, wait and just reload the website after
+            website&apos;s API keeps loading, wait and just reload the website after
             one minute, as it takes up to a minute to restart the service.
           </p>
           <Link

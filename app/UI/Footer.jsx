@@ -34,7 +34,7 @@ const Footer = () => {
                 className="border font-medium text-xl w-fit border-orange-500 px-6 py-4 rounded-full flex items-center gap-2 hover:bg-neutral-600 duration-200 max-lg:w-full max-md:text-lg max-md:px-5 max-md:py-3 max-md:w-full"
               >
                 <FiArrowUpRight className="text-2xl max-md:text-xl" />
-                <span>Let's Connect</span>
+                <span>Let&apos;s Connect</span>
               </button>
             ) : (
               <Link
@@ -42,7 +42,7 @@ const Footer = () => {
                 className="border font-medium text-xl w-fit border-orange-500 px-6 py-4 rounded-full flex items-center gap-2 hover:bg-neutral-600 duration-200 max-lg:w-full max-md:text-lg max-md:px-5 max-md:py-3 max-md:w-full"
               >
                 <FiArrowUpRight className="text-2xl max-md:text-xl" />
-                <span>Let's Connect</span>
+                <span>Let&apos;s Connect</span>
               </Link>
             )}
             <a
