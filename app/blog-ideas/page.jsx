@@ -30,8 +30,8 @@ const blog = () => {
               <FaRegCircleCheck className="text-[#eaeaea]" />
             </span>
             <span>
-              Blog Ideas is a blogging website built using MERN stack in which
-              user can perform CRUD operations.
+              Blog Ideas is a blogging website where users can share their
+              thoughts, ideas, and stories through blog posts.
             </span>
           </p>
           <p className="flex items-center gap-4 text-xl mt-5 max-lg:text-lg">
@@ -39,8 +39,8 @@ const blog = () => {
               <FaRegCircleCheck className="text-[#eaeaea] " />
             </span>
             <span>
-              It has login and sign up facility so that only registered user can
-              perform operations such as create, delete and update.
+              Features: User Registration and Authentication, Blog Management,
+              Responsive Design.
             </span>
           </p>
           <p className="inline-flex items-center gap-4 text-xl mt-5 max-lg:text-lg">
@@ -48,23 +48,24 @@ const blog = () => {
               <FaRegCircleCheck className="text-[#eaeaea]" />
             </span>
             <span>
-              It also ensures user and user’s data security as I have used jwt
-              and bcrypt.
+              Technology Stack: HTML5, CSS3, JavaScript, React.js, Tailwind,
+              Node.js, Express.js, MongoDB, JWT, GitHub, Render, Vercel.
             </span>
           </p>
           <p className="text-xl max-lg:text-lg mt-5">
-            <span className="font-semibold">Note</span> - I&apos;m using Render for
-            my Backend, and it is a free web service that goes 15 minutes
+            <span className="font-semibold">Note</span> - I&apos;m using Render
+            for my Backend, and it is a free web service that goes 15 minutes
             without receiving inbound traffic. So, please be patient if the
-            website&apos;s API keeps loading, wait and just reload the website after
-            one minute, as it takes up to a minute to restart the service.
+            website&apos;s API keeps loading, wait and just reload the website
+            after one minute, as it takes up to a minute to restart the service.
           </p>
           <Link
             href={"https://blog-ideas.vercel.app/"}
             target="_blank"
             className="mt-10 border font-medium text-xl w-fit border-orange-500 px-6 py-4 rounded-full flex items-center gap-2 hover:bg-neutral-600 duration-200 max-md:text-lg max-md:px-5 max-md:py-3 max-md:w-full"
           >
-            <FiArrowUpRight className="text-2xl max-md:text-xl" /> <span>Live</span>
+            <FiArrowUpRight className="text-2xl max-md:text-xl" />{" "}
+            <span>Live</span>
           </Link>
         </div>
       </div>
